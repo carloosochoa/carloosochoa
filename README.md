@@ -42,7 +42,6 @@ Insertar un link
 --
 Un emoji :joy:
 --
-Esto es para destacar ==Mensaje destacado==.
+Esto es para destacar ==Mensaje destacado==
 --
-Ecuacion matemática:
-X^3^-x^2^-2x=0
+
