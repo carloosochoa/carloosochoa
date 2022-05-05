@@ -17,7 +17,7 @@ CO
 -Lista
 -Desordenada
 ---
-`Lineas de codigo`
+Lineas de codigo:
 `System.out.println("Hola Mundo!")`
 ---
 Insertar un link
@@ -27,9 +27,22 @@ Insertar un link
 |UNA|TABLA|
 |---|---|
 |EN|MARKDOWN|
+|DE|PRUEBA|
+|2021|2022|
 ---
--[x] Tabla
--[] De
--[] Tareas
+- [x] Tabla
+- [] De
+- [] Tareas
+---
+[Stephen Curry](https://www.diariodesevilla.es/2021/12/15/deporte/Stephen-Curry_1638446197_149113759_667x375.jpg)
 ---
 ![CURRY](https://www.diariodesevilla.es/2021/12/15/deporte/Stephen-Curry_1638446197_149113759_667x375.jpg)
+--
+~~Hola Mundo~~
+--
+Un emoji :joy:
+--
+Esto es para destacar ==Mensaje destacado==.
+--
+Ecuacion matemática:
+X^3^-x^2^-2x=0
