@@ -41,7 +41,4 @@ Insertar un link
 ~~Hola Mundo~~
 --
 Un emoji :joy:
---
-Esto es para destacar ==Mensaje destacado==
---
 
