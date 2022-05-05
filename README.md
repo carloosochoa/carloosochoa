@@ -1,16 +1,34 @@
-### Hi there 👋
-
-<!--
-**carloosochoa/carloosochoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+CO
+1ºDAW Entornos de Desarrollo
+---
+#H1: Encabezado
+##H2: Segundo encabezado
+######: Otro tipo de encabezado
+---
+**Texto en negrita**
+---
+*Texto en cursiva* 
+---
+>Una cita
+---
+1.Lista
+2.Ordenada
+---
+-Lista
+-Desordenada
+---
+`Lineas de codigo`
+`System.out.println("Hola Mundo!")`
+---
+Insertar un link
+[click aqui](https://www.google.es)
+---
+|ESTO|ES|
+|UNA|TABLA|
+|---|---|
+|EN|MARKDOWN|
+---
+-[x] Tabla
+-[] De
+-[] Tareas
+---
