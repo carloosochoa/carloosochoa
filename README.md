@@ -41,4 +41,5 @@ Insertar un link
 ~~Hola Mundo~~
 --
 Un emoji :joy:
-
+---
+[Mi guía de markdown](git.md)
