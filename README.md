@@ -30,9 +30,10 @@ Insertar un link
 |DE|PRUEBA|
 |2021|2022|
 ---
-- [x] Tabla
-- [] De
-- [] Tareas
+- [x] Aprobar Sistemas
+- [x] Aprobar entornos
+- [x] Aprobar lenguajes
+- [] Descansar
 ---
 [Stephen Curry](https://www.diariodesevilla.es/2021/12/15/deporte/Stephen-Curry_1638446197_149113759_667x375.jpg)
 ---
