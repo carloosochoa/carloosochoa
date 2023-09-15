@@ -36,6 +36,7 @@ Insertar un link
 - [ ] Descansar
 ---
 [Stephen Curry](https://www.diariodesevilla.es/2021/12/15/deporte/Stephen-Curry_1638446197_149113759_667x375.jpg)
+https://wakatime.com/share/@d626b3ca-2137-4eee-a7e3-32c244d0c77f/544c6962-3e45-4090-9bf9-e527b96725b2.svg
 ---
 ![CURRY](https://www.diariodesevilla.es/2021/12/15/deporte/Stephen-Curry_1638446197_149113759_667x375.jpg)
 --
